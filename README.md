@@ -1,6 +1,6 @@
 # CSE Git Attendance 2025
 
-## So we can *Git* to know you, and you can *Git* to know git
+## So we can *Git* to know you, and you can *Git* to know Git
 
 Welcome to the CSE Club's attendance repository! This is a fun little way to get familiar with Git and GitHub while tracking attendance.
 
