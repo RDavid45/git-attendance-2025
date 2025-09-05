@@ -2,7 +2,7 @@
 
 Welcome to the CSE Club's attendance repository! This is a fun little way to get familiar with Git and GitHub while tracking attendance.
 
-[If you're new to Git!](#table-of-contents)
+[If you're new to Git!](#if-youre-new-to-git)
 
 ## How to Mark Your Attendance
 
