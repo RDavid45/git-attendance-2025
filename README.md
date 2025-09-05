@@ -2,7 +2,15 @@
 
 Welcome to the CSE Club's attendance repository! This is a fun little way to get familiar with Git and GitHub while tracking attendance.
 
-[If you're already familiar with Git](#how-to-mark-your-attendance)
+[If you're new to Git!](#table-of-contents)
+
+## How to Mark Your Attendance
+
+1. First, clone the repository to your local machine.
+2. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
+3. Create a new file inside the folder named `<first>_<last>`
+4. In the file, answer the Question of the Week listed in the folder's `README.md`.
+5. TODO
 
 ## Table of Contents
 
@@ -63,6 +71,3 @@ This will open a browser window where you can log in to GitHub.
 
 See official [GitHub docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line) for alternate authentication methods
 
-## How to Mark Your Attendance
-
-TODO
