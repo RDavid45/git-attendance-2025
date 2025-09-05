@@ -31,7 +31,7 @@ right corner of the repository.
 ## If you're new to Git
 
 Follow these steps to setup and get the repository on your local machine. Note, there are no Linux instructions; if you're on Linux, you don't need to
-follow this guide.
+follow this guide. There are also several hyperlinks to documentation to provide additional context to better your understanding throughout the process.
 
 ### Getting a terminal
 
@@ -85,21 +85,21 @@ See official [GitHub docs](https://docs.github.com/en/authentication/keeping-you
 Once you've successfully cloned the repository and made your changes (answered the QOTW!), you can use the following commands to 
 push your changes to your fork and create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-1. Add your changes to the staging area:
+1. [Add your changes to the staging](https://www.atlassian.com/git/tutorials/saving-changes) area:
 
 ```bash
 git add .
 ```
-  > adds all changes in the current working directory to the staging area
+  > adds your changes in the current working directory to the staging area
 
-2. Commit your changes:
+2. [Commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) your changes:
 
 ```bash
 git commit -m "your commit message"
 ```
-  > commits the changes in the staging area with the given message
+  > commits your changes in the staging area with the given message
 
-3. Push your changes to your [remote](https://docs.github.com/en/get-started/git-basics/about-remote-repositories):
+3. [Push](https://www.atlassian.com/git/tutorials/syncing/git-push) your changes to your [remote](https://docs.github.com/en/get-started/git-basics/about-remote-repositories):
 ```bash
 git push origin main
 ```
