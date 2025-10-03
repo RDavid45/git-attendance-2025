@@ -12,7 +12,7 @@ Welcome to the CSE Club's attendance repository! This is a fun little way to get
 2. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
 3. Create a new file inside the folder named `<first>_<last>`
 4. In the file, answer the Question of the Week listed in the folder's `README.md`.
-5. [Add, commit, and push](#6.-basic-git-commands) your changes to your local fork.
+5. [Add, commit, and push](#6-basic-git-commands) your changes to your local fork.
 6. Create a pull request for us to review and merge into the main repository by clicking the "New Pull Request" button in the top
 right corner of the repository.
 7. Success!
@@ -21,13 +21,13 @@ right corner of the repository.
 
 - [How to Mark Your Attendance](#how-to-mark-your-attendance)
 - [If you're new to Git](#if-youre-new-to-git)
-  - [1. Getting a terminal](#1.-getting-a-terminal)
-  - [2. Installing Git](#2.-installing-git)
-  - [3. Forking and Cloning the Repository](#3.-forking-and-cloning-the-repository)
-  - [4. Authenticating with GitHub](#4.-authenticating-with-github)
-  - [5. Create your attendence file](#5.-create-your-attendence-file)
-  - [6. Basic Git Commands](#6.-basic-git-commands)
-  - [7. Create a Pull Request](#7.-create-a-pull-request)
+  - [1. Getting a terminal](#1-getting-a-terminal)
+  - [2. Installing Git](#2-installing-git)
+  - [3. Forking and Cloning the Repository](#3-forking-and-cloning-the-repository)
+  - [4. Authenticating with GitHub](#4-authenticating-with-github)
+  - [5. Create your attendence file](#5-create-your-attendence-file)
+  - [6. Basic Git Commands](#6-basic-git-commands)
+  - [7. Create a Pull Request](#7-create-a-pull-request)
 - [Contributing](#contributing)
 
 ## If you're new to Git
