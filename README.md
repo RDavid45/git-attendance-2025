@@ -85,6 +85,14 @@ This will open a browser window where you can log in to GitHub.
 
 See official [GitHub docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line) for alternate authentication methods
 
+## 5. Create your attendence file
+
+1. Open your file explorer (can also be named finder or dolphin).
+2. Navigate to your git-attendance-2025 directory.
+4. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
+5. Create a new file inside the folder named `<first>_<last>`
+6. In the file, answer the Question of the Week listed in the folder's `README.md`.
+
 ## 5. Basic Git Commands
 
 Once you've successfully cloned the repository and made your changes (answered the QOTW!), you can use the following commands to 
@@ -111,6 +119,13 @@ git push origin main
   > pushes the committed changes to the main branch of your fork
 
 These three commands are Git's' bread and butter! If you're confused about any of these, please refer to the [official Git documentation](https://git-scm.com/doc). It's great!
+
+## 6. Create a Pull Request
+
+Now that you have pushed your changes to your repository you need to create a pull request to the CSE repository.
+
+1. Go back to your git attendence fork at https://github.com/<your-github-username>/git-attendance-2025
+2. 
 
 ## Contributing
 
