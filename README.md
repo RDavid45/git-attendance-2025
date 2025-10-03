@@ -125,7 +125,7 @@ These three commands are Git's' bread and butter! If you're confused about any o
 Now that you have pushed your changes to your repository you need to create a pull request to the CSE repository.
 
 1. Go back to your git attendence fork at https://github.com/<your-github-username>/git-attendance-2025
-2. 
+2. d
 
 ## Contributing
 
