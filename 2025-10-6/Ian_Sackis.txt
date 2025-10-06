@@ -1,0 +1,3 @@
+The activity was pretty easy to do so far.
+If I am working with any external extensions that I am installing, will I always have to reopen my terminal?
+I found pretty much all of it easy up to this point.
