@@ -113,7 +113,7 @@ push your changes to your fork and create a [pull request](https://docs.github.c
 1. Navigate into your project directory
 
 ```bash
-cd git-attendence-2025
+cd git-attendance-2025
 ```
 
 2.  [Add your changes to the staging](https://www.atlassian.com/git/tutorials/saving-changes) area:
